@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dzh-dongbao-application web" />
+        <module name="dzh-dongbao-cart" />
+        <module name="dzh-dongbao-cart-api" />
+        <module name="dzh-dongbao-cms" />
+        <module name="dzh-dongbao-cms-api" />
+        <module name="dzh-dongbao-common-base" />
+        <module name="dzh-dongbao-common-util" />
+        <module name="dzh-dongbao-dictionary" />
+        <module name="dzh-dongbao-dictionary-api" />
+        <module name="dzh-dongbao-generator" />
+        <module name="dzh-dongbao-job" />
+        <module name="dzh-dongbao-oms" />
+        <module name="dzh-dongbao-oms-api" />
+        <module name="dzh-dongbao-pay" />
+        <module name="dzh-dongbao-pay-api" />
+        <module name="dzh-dongbao-pms" />
+        <module name="dzh-dongbao-pms-api" />
+        <module name="dzh-dongbao-portal-web" />
+        <module name="dzh-dongbao-sms" />
+        <module name="dzh-dongbao-sms-api" />
+        <module name="dzh-dongbao-ums" />
+        <module name="dzh-dongbao-ums-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dzh-dongbao-oms-api" target="1.8" />
+      <module name="dzhdongbaoomsapi" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

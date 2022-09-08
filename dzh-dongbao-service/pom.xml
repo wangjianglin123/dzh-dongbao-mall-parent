@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>dzh-dongbao-mall-parent</artifactId>
+        <groupId>com.duzhonghui</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>dzh-dongbao-service</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>dzh-dongbao-oms</module>
+        <module>dzh-dongbao-pms</module>
+        <module>dzh-dongbao-ums</module>
+        <module>dzh-dongbao-pay</module>
+        <module>dzh-dongbao-cart</module>
+        <module>dzh-dongbao-dictionary</module>
+        <module>dzh-dongbao-sms</module>
+        <module>dzh-dongbao-cms</module>
+        <module>dzh-dongbao-application web</module>
+    </modules>
+
+
+</project>
